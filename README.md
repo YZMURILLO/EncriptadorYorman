@@ -1,7 +1,8 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/6f8fa3b6-6bc7-4f9c-8e38-7abd684d58b2">
+   <img src="https://github.com/user-attachments/assets/6f8fa3b6-6bc7-4f9c-8e38-7abd684d58b2"width="300" height="250">
    </p>
-# EncriptadorYorman
+<h1 align="center"> Encriptador Yorman </h1>
+
 
 ## Descripción
 **EncriptadorYorman** es una aplicación web que permite encriptar y desencriptar mensajes de texto. Utiliza un algoritmo simple para transformar el texto ingresado, proporcionando una capa básica de seguridad para tus mensajes.
