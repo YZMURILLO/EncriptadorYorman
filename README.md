@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/6f8fa3b6-6bc7-4f9c-8e38-7abd684d58b2">
+   </p>
 # EncriptadorYorman
 
 ## Descripción
